@@ -1,0 +1,19 @@
+Task 1. Selama transaksi yang terjadi selama 2021, pada bulan apa total nilai transaksi (after_discount) paling besar?
+
+Task 2. Selama transaksi yang terjadi selama 2021, pada bulan apa total jumlah pelanggan (unique), total order (unique) dan total jumlah kuantitas produk paling banyak?
+
+Task 3. Selama transaksi yang terjadi selama 2022, kategori apa yang menghasilkan nilai transaksi paling besar?
+
+Task 4. Bandingkan nilai transaksi dari masing-masing kategori pada tahun 2021 dengan 2022. Sebutkan kategori apa saja yang mengalami peningkatan dan kategori apa yang mengalami penurunan nilai transaksi dari tahun 2021 ke 2022.
+
+Task 5. Tampilkan Top 10 sku_name (beserta kategorinya) berdasarkan nilai transaksi yang terjadi selama tahun 2022. Tampilkan juga total jumlah pelanggan (unique), total order (unique) dan total jumlah kuantitas.
+
+Task 6. Tampilkan top 5 metode pembayaran yang paling populer digunakan selama 2022 (berdasarkan total unique order).
+
+Task 7. Urutkan dari ke-5 produk ini berdasarkan nilai transaksinya yaitu Samsung, Apple, Sony, Huawei, Lenovo
+
+Task 8. Seperti Task 3, buatlah perbandingan dari nilai profit tahun 2021 dan 2022 pada tiap kategori. Kemudian buatlah selisih % perbedaan profit antara 2021 dengan 2022 (profit = after_discount — (cogs*qty_ordered))
+
+Task 9. Tampilkan top 5 SKU dengan kontribusi profit paling tinggi di tahun 2022 berdasarkan kategori paling besar pertumbuhan profit dari 2021 ke 2022 (berdasarkan hasil Task 8).
+
+Task 10. Tampilkan jumlah unique order yang menggunakan top 5 metode pembayaran (Task 6) berdasarkan kategori produk selama tahun 2022.
